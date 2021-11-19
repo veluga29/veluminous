@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+[<img src="https://github-readme-stats.vercel.app/api?username=veluminous&hide=stars,issues&show_icons=true" alt="Lucian's GitHub stats"  />](https://github.com/anuraghazra/github-readme-stats)
+
+​    
 
 [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sungyoon606" alt="Solved.ac
-프로필" align="left" style="zoom: 70%;" />](https://solved.ac/sungyoon606)
+프로필" align="left"  />](https://solved.ac/sungyoon606)
 
-[<img src="https://github-readme-stats.vercel.app/api?username=veluminous&hide=stars,issues&show_icons=true" alt="Lucian's GitHub stats" style="zoom:80%;" />](https://github.com/anuraghazra/github-readme-stats)
