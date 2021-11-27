@@ -2,7 +2,7 @@
 
 ​    
 
-### Hi there 👋 I'm Lucian, Fullstack developer-to-be using Python and JS. 
+### Hi there 👋 I'm Lucian, developer-to-be using Python and JS. 
 
 ### I aim to the improved Backend developer that struggles to understand various domain of software development.
 
